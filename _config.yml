@@ -1,5 +1,5 @@
 # Theme
-remote_theme: codeforcroatia/member
+remote_theme: codeforcroatia/member@master
 
 # Base URL
 baseurl: "http://codeforcroatia.github.io/member/"
