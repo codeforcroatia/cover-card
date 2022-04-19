@@ -2,7 +2,7 @@
 remote_theme: codeforcroatia/member@master
 
 # Base URL
-baseurl: "http://codeforcroatia.github.io/member/"
+baseurl: http://dev.codeforcroatia.org/member
 
 # Title and tag line
 title: 'Code for Croatia'
